@@ -7,3 +7,5 @@
 :snowflake:Adds some new country to the list with array and loop<br>
 :snowflake:Changes the backroud color of the html<br>
 :snowflake:Changes the backround color of every other item in the list to grey<br>
+
+<h4>Result here</h4>
