@@ -12,8 +12,8 @@
 :snowflake:Displays the population of the selected country in the info paragraph<br>
 :snowflake:Creates an image element for displaying the flag of selected country<br>
 :snowflake:Displays the flag of country only when user is pointing to it (just like population text)<br>
-:cop:User can select a country by clicking with mouse cursor  <br>
+:cop:User can select a country by pointing with mouse cursor (mousever event)  <br>
 
 
 
-<h4>Result here</h4>
+[<h4>Result here</h4>](https://ekaterinadvolkova.github.io/Document-Object-Mode-Practicing/)
